@@ -7,6 +7,10 @@ A Flask web application is containerized and automatically built on every code p
 
 ---
 
+## 🌍 Live Demo
+
+https://cicd-web-app-bw0g.onrender.com
+
 ## 🛠️ Technologies Used
 
 - Python (Flask)
